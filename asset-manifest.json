@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d82a7b17.css",
-    "main.js": "/static/js/main.266d1294.js",
+    "main.js": "/static/js/main.a6e6ba09.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/me.jpg": "/static/media/me.b3a9f5d0ec41a016c5ac.jpg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -14,8 +14,9 @@
     "static/media/dsc_logo.png": "/static/media/dsc_logo.fdf993910e3f48d0cf30.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
-    "static/media/CV_Ennedoui_Sami.pdf": "/static/media/CV_Ennedoui_Sami.9f5659164df48009307c.pdf",
-    "static/media/CV_ENNEDOUI_SAMI_en.pdf": "/static/media/CV_ENNEDOUI_SAMI_en.6811616d9a54519f4695.pdf",
+    "static/media/CV_Ennedoui_Sami.pdf": "/static/media/CV_Ennedoui_Sami.675958eaaec843efe6f3.pdf",
+    "static/media/CV_Ennedoui_Sami.pdf.pdf": "/static/media/CV_Ennedoui_Sami.pdf.675958eaaec843efe6f3.pdf",
+    "static/media/CV_ENNEDOUI_SAMI_en.pdf": "/static/media/CV_ENNEDOUI_SAMI_en.e55c6cd96044f74774d5.pdf",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.a6571aa6386520448027.png",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.4e8f9fa44f7ec7479c39.svg",
     "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
@@ -77,11 +78,12 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/c.svg": "/static/media/c.4b3cff5151588e79b8b1.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
+    "static/media/update_cv": "/static/media/update_cv.415a67f3b3bd7e8b5673",
     "main.d82a7b17.css.map": "/static/css/main.d82a7b17.css.map",
-    "main.266d1294.js.map": "/static/js/main.266d1294.js.map"
+    "main.a6e6ba09.js.map": "/static/js/main.a6e6ba09.js.map"
   },
   "entrypoints": [
     "static/css/main.d82a7b17.css",
-    "static/js/main.266d1294.js"
+    "static/js/main.a6e6ba09.js"
   ]
 }
